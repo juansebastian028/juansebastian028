@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Acerca de mi </h3>
 
-- 🎓 &nbsp; Soy estudiante de Ingeneria de Software.
+- 🎓 &nbsp; Soy estudiante de Ingeniería de Software.
 - 💼 &nbsp; Estoy en busca de trabajo como desarrollador web.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
