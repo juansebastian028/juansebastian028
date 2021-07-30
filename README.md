@@ -35,7 +35,7 @@
 <br/>
 
 <a href="https://github.com/juansebastian028">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juansebastian028theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juansebastian028&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansebastian028&theme=buefy&layout=compact" />
 </a>
 
@@ -44,6 +44,6 @@
 <h3> 🤝🏻 &nbsp;Contacto </h3>
 
 <p align="center">
-<a href="https://juan-sebastian-portfolio.000webhostapp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/juan-sebasti%C3%A1n-vargas-posada-90b531202 "><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://juan-sebastian-portfolio.000webhostapp.com/">Website</a>
+<a href="https://www.linkedin.com/in/juan-sebasti%C3%A1n-vargas-posada-90b531202 ">Linkedin</a>
 </p>
