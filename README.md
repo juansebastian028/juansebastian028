@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;Acerca de mi </h3>
 
 - 🎓 &nbsp; Ingeniero de Software.
-- 💼 &nbsp; Estoy en busca de trabajo como desarrollador web.
+- 💼 &nbsp; En busca de trabajo.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
