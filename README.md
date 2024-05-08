@@ -44,6 +44,6 @@
 <h3> 🤝🏻 &nbsp;Contacto </h3>
 
 <p align="center">
-<a href="https://juan-sebastian-portfolio.000webhostapp.com/">Website</a>
+<a href="https://juansebastian028.github.io/porfolio/">Website</a>
 <a href="https://www.linkedin.com/in/juan-sebasti%C3%A1n-vargas-posada-90b531202 ">Linkedin</a>
 </p>
